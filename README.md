@@ -119,10 +119,7 @@ Results are saved to `hits.txt`.
 
 ---
 
-## Disclaimer
 
-This tool is intended for **authorized security research and CTF competitions only**.
-The author is not responsible for any misuse.
 
 ---
 
