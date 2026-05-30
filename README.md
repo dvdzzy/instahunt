@@ -50,7 +50,7 @@ python unrivaled.py
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/meaz0x8/unrivaled
+git clone https://github.com/meaz0x8/unrivaled](https://github.com/dvdzzy/instahunt.git
 cd unrivaled
 pip install -r requirements.txt
 python unrivaled.py
