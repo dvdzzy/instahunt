@@ -1,0 +1,9 @@
+curl_cffi
+h2
+rich
+requests
+user_agent
+httpx
+httpx[http2]
+faker
+beautifulsoup4
